@@ -23,6 +23,7 @@ Streaming processing possible.
 - Couchbase uses a similar stack with good results
 - Cloudflare uses a similar stack with good results
 - Ceph and GlusterFS as also other Distributed filesystems use the same principels.
+- gittea also comes into mind as it offers git-object db and also multiple dbs sqlite or postgrees which eg superbase supports so it implements auth + git-db as a storage type
 - Quaternion as Software Defined Storage can
   - adapt and Unify everything of that. It can use the Stealify Lang B8G Build pattern to do so
   - can use graalvm with Ignite and node-graal to Replace eg existing Ignite Clusters.
